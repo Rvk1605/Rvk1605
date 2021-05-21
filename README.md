@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Rajveer 
-- 👀 I’m interested in ..
 - 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach Me at rk2279709@gmail.com
 
 <!---
