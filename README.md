@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajveer 
-- 🌱 I’m currently learning Web Dev
+- 🌱 Software Engineer @ Wabtec Corporation
 - 📫 Reach Me at rk2279709@gmail.com
 
 <!---
